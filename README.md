@@ -1,1 +1,1 @@
-# javabootcamp-week-3
+# polymorphism: Classların ana class gibi davranması. 
