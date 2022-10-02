@@ -6,3 +6,5 @@ Abstract:Soyut sınıflar nesne türetilirken şablon oluşturmak için kullanı
 Kalıtım yaparak kullandığımız abstract sınıf özelliklerini override işlemine tabi tutarak yeniden tanımlayabiliriz.
 
 AbstractDemo güzel bir demo eklendi.
+
+Interfaces: İçerisindeki default ve static tanımlanan metotlar hariç, metotların implementasyonları bulunmaz ve state tutmaz.
