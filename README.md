@@ -8,3 +8,5 @@ Kalıtım yaparak kullandığımız abstract sınıf özelliklerini override iş
 AbstractDemo güzel bir demo eklendi.
 
 Interfaces: İçerisindeki default ve static tanımlanan metotlar hariç, metotların implementasyonları bulunmaz ve state tutmaz.
+
+InterfaceDemo: Interfacesler için basit bir örnek eklendi.
