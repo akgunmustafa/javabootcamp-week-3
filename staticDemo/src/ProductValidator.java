@@ -13,10 +13,4 @@ public class ProductValidator {
 
     }
 
-    //inner class and static
-    public static class OtherClass{
-        public static void delete(){
-
-        }
-    }
 }
