@@ -10,3 +10,5 @@ AbstractDemo güzel bir demo eklendi.
 Interfaces: İçerisindeki default ve static tanımlanan metotlar hariç, metotların implementasyonları bulunmaz ve state tutmaz.
 
 InterfaceDemo: Interfacesler için basit bir örnek eklendi.
+
+StaticDemo: Basic static yapı örnekleri. Inner Class yapısı kuruldu. Tavsiye edilmiyor çünkü single responsibility principle a aykırı.
