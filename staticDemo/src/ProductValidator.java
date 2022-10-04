@@ -12,4 +12,11 @@ public class ProductValidator {
     public void other(){
 
     }
+
+    //inner class and static
+    public static class OtherClass{
+        public static void delete(){
+
+        }
+    }
 }
