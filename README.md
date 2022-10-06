@@ -1,14 +1,24 @@
-Polymorphism: Classların ana class gibi davranması.
+# JavabootCamp2022 Week-3
 
-Overriding: Extends edilen classdaki işlemlerin üzerine yazılması. Ana class final key kullanırsa diğer extendsler overriding yapamazlar.
+## Polymorphism:
+- "many forms", "many classes"
+- Inheritance lets us inherit attributes and methods from another class.
 
-Abstract:Soyut sınıflar nesne türetilirken şablon oluşturmak için kullanılır.
-Kalıtım yaparak kullandığımız abstract sınıf özelliklerini override işlemine tabi tutarak yeniden tanımlayabiliriz.
+## Overriding: 
+- Extends edilen classdaki işlemlerin üzerine yazılması. Ana class final key kullanırsa diğer extendsler overriding yapamazlar.
 
-AbstractDemo güzel bir demo eklendi.
+## Abstract:
+- Soyut sınıflar nesne türetilirken şablon oluşturmak için kullanılır.
+- Kalıtım yaparak kullandığımız abstract sınıf özelliklerini override işlemine tabi tutarak yeniden tanımlayabiliriz.
 
-Interfaces: İçerisindeki default ve static tanımlanan metotlar hariç, metotların implementasyonları bulunmaz ve state tutmaz.
+## AbstractDemo
+- Güzel bir demo eklendi.
 
-InterfaceDemo: Interfacesler için basit bir örnek eklendi.
+## Interfaces:
+- İçerisindeki default ve static tanımlanan metotlar hariç, metotların implementasyonları bulunmaz ve state tutmaz.
 
-StaticDemo: Basic static yapı örnekleri. Inner Class yapısı kuruldu. Tavsiye edilmiyor çünkü single responsibility principle a aykırı.
+## InterfaceDemo: 
+- Interfacesler için basit bir örnek eklendi.
+
+## StaticDemo: 
+- Basic static yapı örnekleri. Inner Class yapısı kuruldu. Tavsiye edilmiyor çünkü single responsibility principle a aykırı.
